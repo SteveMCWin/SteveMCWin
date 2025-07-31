@@ -12,5 +12,5 @@ I'm Stevan, a student learning about software development.
 ![](https://img.shields.io/badge/Coding-Godot-informational?style=flat&logo=godotengine&logoColor=white&color=2bbc8a)
 
 ## Some stats
-![SteveMCWin's Stats](https://github-readme-stats.vercel.app/api?username=SteveMCWin&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![SteveMCWin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SteveMCWin&theme=tokyonight&hide_border=false)
+![SteveMCWin's Stats](https://github-readme-stats.vercel.app/api?username=SteveMCWin&theme=nord&show_icons=true&hide_border=false&count_private=true)
+<!-- ![SteveMCWin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SteveMCWin&theme=tokyonight&hide_border=false) -->
