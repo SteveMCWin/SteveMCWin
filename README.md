@@ -1,6 +1,6 @@
 ## Hi all <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I'm Stevan, a student learning about software development.
+I'm Stevan, a devops intern and student learning about software development and platform engineering.
 
 ## Stuff I use 💻
 ![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=1a9dba)
