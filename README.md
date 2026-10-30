@@ -1,4 +1,4 @@
-I do DevOps and whatever else on the side I guess.
+DevOps by day, mentally challenged by night.
 
 ## Stuff I use 💻
 ![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=1a9dba)
